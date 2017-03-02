@@ -1,0 +1,6 @@
+pip install pytesseract
+pip install pillow
+apt-get install tesseract-ocr
+apt-get install python-tk
+apt-get install python-imaging-tk
+pip install python-resize-image
