@@ -1,5 +1,5 @@
-# crawling_tokopedia
-download phone number from tokopedia and image processing
+# Crawling_tokopedia
+Download phone number from tokopedia and image processing
 
 ##Understand the web structure
 Must understand web structure like xpath and css selector
